@@ -1,6 +1,6 @@
 # moviegraph
 
-Some experiments in link prediction over dynamic graphs using PyTorch Geometric Temporal[[1]](#1) and the MovieLens dataset[[2]](#2).
+Some experiments in link prediction over dynamic graphs using PyTorch Geometric Temporal [[1]](#1) and the MovieLens dataset [[2]](#2).
 
 ## References
 <a id="1">[1]</a> 
